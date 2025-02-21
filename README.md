@@ -37,6 +37,7 @@ This project is a **Form Validation System** built using **HTML, CSS, and JavaSc
 ## Screenshots 🖼️
 ![form1](https://github.com/user-attachments/assets/94110b92-b076-4942-bbb0-2530c36afdb4)
 
+![form2](https://github.com/user-attachments/assets/3a6733a6-d8d9-41fc-9c55-c6c7b97d456a)
 
 ---
 
